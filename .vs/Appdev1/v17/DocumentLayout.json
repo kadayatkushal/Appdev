@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\repository\\webcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\repository\\webcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\repository\\webbannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\repository\\webbannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\controllers\\webbannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\controllers\\webbannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\services\\iwebcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\services\\iwebcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\services\\iwebbannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\services\\iwebbannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\services\\webcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\services\\webcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\services\\webbannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\services\\webbannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\repository\\iwebcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\repository\\iwebcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\repository\\iwebbannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\repository\\iwebbannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\entities\\webcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\entities\\webcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\entities\\webbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\entities\\webbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\dtos\\webcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\dtos\\webcompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\dtos\\webbannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\dtos\\webbannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|c:\\users\\acer\\desktop\\finalyear\\appdev1\\appdev1\\controllers\\webcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44279495-56D4-401E-BC77-70C3A94FC7EC}|Appdev1\\Appdev1.csproj|solutionrelative:appdev1\\controllers\\webcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWebCompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\IWebCompanyService.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Services\\IWebCompanyService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\IWebCompanyService.cs",
+              "RelativeToolTip": "Appdev1\\Services\\IWebCompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:11:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWebBannerService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\IWebBannerService.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Services\\IWebBannerService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\IWebBannerService.cs",
+              "RelativeToolTip": "Appdev1\\Services\\IWebBannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:10:38.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebCompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\WebCompanyService.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Services\\WebCompanyService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\WebCompanyService.cs",
+              "RelativeToolTip": "Appdev1\\Services\\WebCompanyService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:10:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebCompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\WebCompanyRepository.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Repository\\WebCompanyRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\WebCompanyRepository.cs",
+              "RelativeToolTip": "Appdev1\\Repository\\WebCompanyRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:07:06.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebBannerService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\WebBannerService.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Services\\WebBannerService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Services\\WebBannerService.cs",
+              "RelativeToolTip": "Appdev1\\Services\\WebBannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:09:30.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebBannersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Controllers\\WebBannersController.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Controllers\\WebBannersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Controllers\\WebBannersController.cs",
+              "RelativeToolTip": "Appdev1\\Controllers\\WebBannersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:44:09.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebBannerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\WebBannerRepository.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Repository\\WebBannerRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\WebBannerRepository.cs",
+              "RelativeToolTip": "Appdev1\\Repository\\WebBannerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:06:19.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWebCompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\IWebCompanyRepository.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Repository\\IWebCompanyRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\IWebCompanyRepository.cs",
+              "RelativeToolTip": "Appdev1\\Repository\\IWebCompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:08:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWebBannerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\IWebBannerRepository.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Repository\\IWebBannerRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Repository\\IWebBannerRepository.cs",
+              "RelativeToolTip": "Appdev1\\Repository\\IWebBannerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:07:47.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebCompany.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Entities\\WebCompany.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Entities\\WebCompany.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Entities\\WebCompany.cs",
+              "RelativeToolTip": "Appdev1\\Entities\\WebCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:01:55.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebBanner.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Entities\\WebBanner.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Entities\\WebBanner.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Entities\\WebBanner.cs",
+              "RelativeToolTip": "Appdev1\\Entities\\WebBanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:01:23.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebCompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\DTOs\\WebCompanyDTO.cs",
+              "RelativeDocumentMoniker": "Appdev1\\DTOs\\WebCompanyDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\DTOs\\WebCompanyDTO.cs",
+              "RelativeToolTip": "Appdev1\\DTOs\\WebCompanyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:59:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebBannerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\DTOs\\WebBannerDTO.cs",
+              "RelativeDocumentMoniker": "Appdev1\\DTOs\\WebBannerDTO.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\DTOs\\WebBannerDTO.cs",
+              "RelativeToolTip": "Appdev1\\DTOs\\WebBannerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:51:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebCompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Controllers\\WebCompaniesController.cs",
+              "RelativeDocumentMoniker": "Appdev1\\Controllers\\WebCompaniesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\finalyear\\Appdev1\\Appdev1\\Controllers\\WebCompaniesController.cs",
+              "RelativeToolTip": "Appdev1\\Controllers\\WebCompaniesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:47:46.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

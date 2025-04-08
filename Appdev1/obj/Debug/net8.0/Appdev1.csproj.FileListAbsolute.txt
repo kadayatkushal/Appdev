@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.AssemblyInfo.cs
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\finalyear\Appdev1\Appdev1\obj\Debug\net8.0\Appdev1.MvcApplicationPartsAssemblyInfo.cache
